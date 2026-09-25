@@ -4,6 +4,14 @@ export const routes = [
     "route": "/documents"
   },
   {
+    "name": "送审会签",
+    "route": "/approval"
+  },
+  {
+    "name": "历史快照",
+    "route": "/snapshots"
+  },
+  {
     "name": "版本对比",
     "route": "/compare"
   },
